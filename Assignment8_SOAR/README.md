@@ -4,9 +4,13 @@ This project enhances the Mini-SOAR tool by integrating threat actor attribution
 
 ## Features
 -Classification of URLs as MALICIOUS or BENIGN using PyCaret
+
 -Attribution of malicious URLs to one of three synthetic threat actor profiles via clustering
+
 -Streamlit UI with dual-model logic and interactive outputs
+
 -Dockerized Deployment for reproducible execution across platforms
+
 -Timestamped Outputs and annotated code for forensic traceability
 
 ## Technologies
