@@ -1,0 +1,13 @@
+# Core Libraries
+h2o==3.44.0.1
+pandas>=1.5.0
+scikit-learn>=1.3.0
+shap>=0.42.1
+
+# Optional Performance Enhancements
+polars>=0.20.0
+pyarrow>=14.0.0
+
+# Linting (for GitHub Actions)
+flake8>=6.1.0
+ruff>=0.1.7
