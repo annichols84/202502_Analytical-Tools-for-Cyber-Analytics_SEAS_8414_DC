@@ -21,6 +21,8 @@ This project implements a prescriptive cybersecurity tool that classifies domain
 4. Run `2_analyze_domain.py` to score domains  
 5. Run `3_explain_and_prescribe.py` to interpret and prescribe
 
+> **Note:** The linting workflow is active and valid, but badge rendering is currently unsupported due to GitHub’s nested folder structure. All code hygiene checks are still enforced via `.github/workflows/lint.yml`.
+
 ## Workflow Overview  
 1. Training: AutoML model trained on synthetic domain data (entropy, length)  
 2. Scoring: Domains are scored using the exported MOJO/native model  
