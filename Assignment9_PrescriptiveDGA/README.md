@@ -1,6 +1,7 @@
 # Assignment 9 – Prescriptive DGA Detector  
 ![Lint Workflow](https://github.com/annichols84/202502_Analytical-Tools-for-Cyber-Analytics_SEAS_8414_DC/actions/workflows/lint.yml/badge.svg?branch=main)
 
+
 This project implements a prescriptive cybersecurity tool that classifies domain names as legitimate or DGA-generated using AutoML, explains its decisions using SHAP, and generates incident response playbooks via Generative AI. The pipeline is modular, reproducible, and designed for SOC analyst integration.
 
 ## Contents  
